@@ -1,6 +1,7 @@
 # React Seach Movie 📽
 
 ## Sobre
+Este projeto é um Search Engine baseado em filmes.
 
 🔗 <a href="https://react-g6qbvr.stackblitz.io">Link preview</a>
 
