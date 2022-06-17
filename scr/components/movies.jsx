@@ -29,7 +29,12 @@ function Movies({movies}){
          overlayClassName="overlay"
          className="modal">
       </Modal>
-       
+      <Container>
+         <h2>{movie.title}</h2>
+         <img src={'https://image.tmdb.org/t/p/w500' + movie.backdrop_path}/>
+         <p>{movie.overview}</p>
+         <button onClick={handleCloseModal}>Close</button>
+     </Container>
     </>
   )
 }
