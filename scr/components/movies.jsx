@@ -2,7 +2,7 @@ import React from "react"
 import { useState } from "react"
 import Modal from "react-modal"
 
-import { MoviesList, Container} from "./MoviesStyle"
+import { MoviesList, Container } from "./MoviesStyle"
 
 Modal.setAppElement('#root')
 
