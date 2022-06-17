@@ -4,3 +4,10 @@
 
 🔗 <a href="https://react-g6qbvr.stackblitz.io">Link preview</a>
 
+## Tecnologias usadas
+<ul>
+  <li>ReactJs</li>
+  <li>React Modal</li>
+  <li>Styled-components</li>
+</ul>
+
